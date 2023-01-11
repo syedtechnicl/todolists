@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todolists/static/css/main.18cef497.css",
+    "main.js": "/todolists/static/js/main.94219b33.js",
+    "index.html": "/todolists/index.html",
+    "main.18cef497.css.map": "/todolists/static/css/main.18cef497.css.map",
+    "main.94219b33.js.map": "/todolists/static/js/main.94219b33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18cef497.css",
+    "static/js/main.94219b33.js"
+  ]
+}
